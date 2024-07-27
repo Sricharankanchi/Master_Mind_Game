@@ -3,8 +3,11 @@
 # 💡 Project Highlights:
 
 Two-player game
+
 Randomly generated secret codes
+
 Real-time feedback on guesses
+
 GUI built with Tkinter
 
 # 🔗 Project Details:
